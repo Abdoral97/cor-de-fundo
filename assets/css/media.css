@@ -6,6 +6,20 @@
         height: 15rem;
         font-size: 1.5rem;
     }
+
+    #butao-cores {
+        width: auto;
+    }
+
+    #butao-cores {
+        gap: 0.4rem;
+
+    }
+
+    .botoes {
+        width: 3rem;
+
+    }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
@@ -14,6 +28,20 @@
         height: 15rem;
         font-size: 1.5rem;
     }
+
+    #butao-cores {
+        width: auto;
+    }
+
+    #butao-cores {
+        gap: 0.4rem;
+
+    }
+
+    .botoes {
+        width: 3rem;
+
+    }
 }
 
 @media screen and (min-width: 1200px) {
@@ -21,5 +49,19 @@
         width: 35rem;
         height: 15rem;
         font-size: 1.5rem;
+    }
+
+    #butao-cores {
+        width: auto;
+    }
+
+    #butao-cores {
+        gap: 0.4rem;
+
+    }
+
+    .botoes {
+        width: 3rem;
+
     }
 }
